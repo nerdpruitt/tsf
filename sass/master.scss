@@ -1,9 +1,13 @@
 body {
-    font-size:100%;
+	font:400 100%/1.5 freight-sans-pro;
     line-height:1.5;
 }
 
 div[role="main"]{
     margin:0 auto;
     width:500px;
+}
+
+h1 {
+	font-weight:900;
 }
