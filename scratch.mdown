@@ -1,0 +1,43 @@
+---
+layout: main
+title: Scratch Sheet
+---
+
+1. Be Passionate and Determined
+take responsibility (ownership)
+speak up
+We value passion, determination, perseverance, and the sense of urgency.
+
+We are inspired because we believe in what we are doing and where we are going. We don't take "no" or "that'll never work" for an answer because if we had, then Zappos would have never started in the first place.
+
+Passion and determination are contagious. We believe in having a positive and optimistic (but realistic) attitude about everything we do because we realize that this inspires others to have the same attitude.
+
+There is excitement in knowing that everyone you work with has a tremendous impact on a larger dream and vision, and you can see that impact day in and day out. - Zappos Family Core Value #9
+
+2. Deliver Exceptional Work
+Be an Advocate for the User / Defend the User
+take pride in your work
+
+3. Pursue Growth and Learning
+Be Valuable
+Get involved
+Help and Ask for Help
+
+4. Build a Positive Team Spirit
+Trust Each Other - http://sethgodin.typepad.com/seths_blog/2012/06/where-does-trust-come-from.html
+work as a team
+
+Have Fun
+
+5. Foster Creativity
+be bold, be innovative
+“The future doesn't belong to the faint-hearted; it belongs to the brave” - Ronald Reagan
+
+6. Be Humble
+
+- focus
+  -- Designs should solve problems. The question of what problem you are solving with your designs should constantly be asked and evaluated
+- flexibility
+  -- Consistency and optimization across any device, including screen width. A site is accessible on any internet capable device, the design is optimized for each device, all while looking like one brand.
+- craftsmanship
+  -- Sweating every detail of how a website is built. Front end and backend are not simply built, but are carefully and purposely crafted.

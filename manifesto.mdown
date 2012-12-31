@@ -1,0 +1,55 @@
+---
+layout: main
+title: What We Value
+---
+
+## Manifesto
+
+_or--_ Why We Are More Awesome Than You
+
+_or--_ What We Believe
+
+
+## Serve
+
+Think of yourself second. Be humble. Remember that what we create is being used by humans. Remember that what we create is an act of service to God. Praise another person's good work. Stay out of politics. Don't gossip. All of your actions should be motivated by love.
+
+
+## Focus
+
+Don't let unimportant stuff distract you. Remember the goals of your designs. Make certain that you are solving problems, and that they are the right problems. Time spent solving the wrong problems is a waste. Be intentional with everything you do.
+
+
+## Flexibility
+
+Build systems that are flexible, that adapt, that are easy to change and update. Be willing to admit you were wrong about something and change your mind.
+
+
+## Craftsmanship
+
+Care about what you do. Do your work with excellence. Sweat the details. Ask for critical feedback on designs and for code reviews.
+
+
+## Education
+
+Ask for help if you need it. Be ready to invest in someone and offer help when they ask. Read the Freaking Manual. Write the Freaking Manual. Share what you learn with one another. No knowledge is sacred or hidden.
+
+
+## Fun
+
+Have a sense of humor. Take time to do something fun. Don't take things _too_ seriously.
+
+
+## Trust
+
+Trust other people to do their jobs. Share your work when you are overwhelmed. Support one another.
+
+
+## Responsibility
+
+Take ownership of your work. Don't wait for someone else to do your job. Don't wait for other people to tell you what to do. You are in control, go do it.
+
+
+## Ship
+
+Excellence is the balance between perfection and production. Ship early and often, start making something real as early as you can. Ideas are wonderful, but finishing something and actually shipping it is more valuable.

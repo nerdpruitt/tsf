@@ -1,0 +1,6 @@
+name: Team Strike Force! Manifesto
+permalink: /:categories/:title.html
+jquery_js: js/jquery-1.7.1.min.js
+exclude: [ sass ]
+auto: true
+logged_in: false
