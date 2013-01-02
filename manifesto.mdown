@@ -1,6 +1,6 @@
 ---
 layout: main
-title: What We Value
+title: What We Believe
 ---
 
 ## Manifesto
